@@ -1,3 +1,3 @@
 # AvocadoMarket
 Prueba Técnica
-# Cotenido general de proyecto general
+# Cotenido general de proyecto
